@@ -1,6 +1,5 @@
 # testPolytech
 
-## 
 
 ## prerequisites :
 
@@ -16,7 +15,13 @@ Run in a teminal :
 
 ``composer install ``
 
-Create a database name
+Execute the Dump Database file located in ./dump
+
+Run ``localhost/place/of/project/login.php``
+
+in a browser.
+
+
 
 
 
