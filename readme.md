@@ -7,7 +7,7 @@
 - install composer
 - install Mysql
 
-##Installation :
+## Installation :
 
 Run in a teminal :
 
@@ -16,6 +16,8 @@ Run in a teminal :
 ``composer install ``
 
 Execute the Dump Database file located in ./dump
+
+## Run :
 
 Run ``localhost/place/of/project/login.php``
 
