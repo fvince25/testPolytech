@@ -1,0 +1,18 @@
+{
+    "name": "vfritz/formulaire",
+    "authors": [
+        {
+            "name": "Vincent Fritz",
+            "email": "fvince25@yahoo.fr"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5",
+        "firebase/php-jwt": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
